@@ -3,6 +3,9 @@ import React from "react";
 /**
  * IsDevice utility function to detect mobile devices
  */
+/**
+ * IsDevice utility function to detect mobile devices
+ */
 const IsDevice = (() => {
   if (typeof navigator === 'undefined') return;
   
@@ -60,6 +63,7 @@ function AnimatedCursor() {
 }
 
 export default AnimatedCursor;
+
 
 
 
