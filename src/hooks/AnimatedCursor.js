@@ -1,4 +1,4 @@
-import React from "react";
+
 
 /**
  * IsDevice utility function to detect mobile devices
